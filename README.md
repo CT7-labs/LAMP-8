@@ -50,4 +50,4 @@ Here's the compiled .hex (Intel Hex) file if you want to run that particular pro
 # Useage
 Download all the .dig files to the same folder, then open the block schematic inside [Digital](https://github.com/hneemann/Digital)
 
-The current compiler is extremely bad so it's not here. Stay tuned for that
+The current compiler is extremely bad so it's not here. And it won't be updated either; I'm focused on Project Sonder right now.
