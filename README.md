@@ -1,5 +1,7 @@
 # LAMP-8
-The Limited And Massive Processor is an 8-bit minicomputer designed to be built on breadboards. The design phase is complete, and parts have been ordered.
+The Limited And Massive Processor is an 8-bit minicomputer designed to be built on breadboards.
+It was a pain in the butt, but I actually recommend building your own simple computer from scratch.
+You'll learn a lot.
 
 # Specs
 - 8-bit data width
