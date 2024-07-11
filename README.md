@@ -3,6 +3,8 @@ The Limited And Massive Processor is an 8-bit minicomputer designed to be built 
 It was a pain in the butt, but I actually recommend building your own simple computer from scratch.
 You'll learn a lot.
 
+Deal with the blurry photo. I'm not updating it.
+
 ![It's not pretty, but it worked!](https://github.com/CT7-labs/LAMP-8/assets/83499017/b8112d98-68bd-46d7-9c9b-efc9fe01d840)
 
 # Specs
